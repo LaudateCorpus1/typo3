@@ -1731,10 +1731,10 @@ ckeditor-wordcount-plugin@^1.17.6:
   resolved "https://registry.yarnpkg.com/ckeditor-wordcount-plugin/-/ckeditor-wordcount-plugin-1.17.6.tgz#cb1a2a988ce8c3f29cd701f38b120c3a03daef85"
   integrity sha512-73Q0/W445UoToQ8fyaBhXxhsZXMOxoeGGaIZ1HyiPc1nisK1gbIGAFi1ksgKoavQhri0+sOfpnYSFXDEC608EQ==
 
-ckeditor4@^4.16.0:
-  version "4.16.1"
-  resolved "https://registry.yarnpkg.com/ckeditor4/-/ckeditor4-4.16.1.tgz#c1d34d032085d33e2efe3c12b30431b5f9230c16"
-  integrity sha512-dfclP3QDQfXMOrPex3s/l6b5E+MBSxhMpW3+nUM6lFX3ax1u/1tl2ETpe7iYJRtoN4TdvddL5XFweQT17woN5A==
+ckeditor4@^4.18.0:
+  version "4.18.0"
+  resolved "https://registry.yarnpkg.com/ckeditor4/-/ckeditor4-4.18.0.tgz#d54861a9d5a01029f16a54b820a4af10d3bbc156"
+  integrity sha512-O4tnQCH0APKrBsz78L+m48s9Cs90aq0Nsatmh9CUj2YBTh8UZYdYcelBLVA84SlwA1nsx07aC76Zn08vgHqmLQ==
 
 class-utils@^0.3.5:
   version "0.3.6"
